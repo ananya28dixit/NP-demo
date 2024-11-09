@@ -1,3 +1,4 @@
 # NP-demo
-this is my first repository
-Author - ananya dixit
+THIS IS MY FIRST REPOSITORY.
+<br>
+Author: Ananya Dixit
